@@ -1,9 +1,9 @@
 <h1>Hi, I'm Liang Wang! <br/><a href="https://github.com/liang-wang-mako/portfolio">Programmer</a>, <a href="https://www.linkedin.com/in/liang-wang-5751565b/">Full-Stack Web Developer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
-- [My CV](https://github.com/liang-wang-mako/portfolio/blob/main/LiangWang_CV.pdf)
+ - [My CV](https://github.com/liang-wang-mako/portfolio/blob/main/LiangWang_CV.pdf)
 
-- <h3>React.js Challenges and Projects During the Bootcamp at Dev Academy Aotearoa</h3>
+<h3>React.js Challenges and Projects During the Bootcamp at Dev Academy Aotearoa</h3>
 
 - <b>Full Stack Web App (React, ExpressJS, NodeJS, JWT, and Mongo DB)</b>
 
