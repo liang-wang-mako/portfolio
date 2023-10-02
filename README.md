@@ -14,9 +14,11 @@
   - [Paws for Effect-the basics of React development](https://github.com/mako-2023/react-paws-for-effect/tree/liang)
  
 - <b>Express.js Challenges and Projects During the Bootcamp at Dev Academy Aotearoa</b>
+  - [DreamFest-Practice to deveope a site using Express.js](https://github.com/mako-2023/dreamfest/tree/liang)
   - [Server Side Rendering](https://github.com/mako-2023/server-side-rendering/tree/liang)
-   
   - [Pupparazzi-Practice Express router](https://github.com/mako-2023/pupparazzi/tree/liang)
+  - [External API-This exercise is about exploring the world of APIs available to us](https://github.com/mako-2023/consuming-external-apis/tree/liang)
+  - [knex-todo-cli-Command-line todo app using Knex](https://github.com/mako-2023/knex-todo-cli/tree/liang)
    
 - <b>C# (.NET .Net Core Application)</b>
   - [Will be added later]
