@@ -1,6 +1,20 @@
 <h1>Hi, I'm Liang Wang! <br/><a href="https://github.com/liang-wang-mako/portfolio">Programmer</a>, <a href="https://www.linkedin.com/in/liang-wang-5751565b/">Full-Stack Web Developer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
+
+<h3>About Me</h3>
+- <p>
+ I'm a full-stack web developer with a passion for creativity and problem-solving. 
+</p>
+- <p>
+ Recently, I finished an intensive 15-week web development bootcamp from Dev Academy Aotearoa. This immersive experience has equipped me with a good foundation in full-stack web development with React.js, Express.js, Node.js, and SQLite or Mongo DB.
+</p>
+- <p>
+ Before that, I had a few years of successful web development using Angular.js, ASP.Net or ASP.Net Core Web API, and Microsoft SQL Server.
+</p>
+<p>
+ Web application development appeals to me because of the potential to create products that can uplift communities, create experiences, and provide accessibility.
+</p>
  - [My CV](https://github.com/liang-wang-mako/portfolio/blob/main/LiangWang_CV.pdf)
 
 <h3>React.js Challenges and Projects During the Bootcamp at Dev Academy Aotearoa</h3>
