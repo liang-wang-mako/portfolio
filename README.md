@@ -3,13 +3,13 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 <h3>About Me</h3>
-- <p>
+<p>
  I'm a full-stack web developer with a passion for creativity and problem-solving. 
 </p>
-- <p>
+<p>
  Recently, I finished an intensive 15-week web development bootcamp from Dev Academy Aotearoa. This immersive experience has equipped me with a good foundation in full-stack web development with React.js, Express.js, Node.js, and SQLite or Mongo DB.
 </p>
-- <p>
+<p>
  Before that, I had a few years of successful web development using Angular.js, ASP.Net or ASP.Net Core Web API, and Microsoft SQL Server.
 </p>
 <p>
