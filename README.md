@@ -16,7 +16,7 @@
  Web application development appeals to me because of the potential to create products that can uplift communities, create experiences, and provide accessibility.
 </p>
 
-- <b>To View My CV</b>
+- <b>To View or download My CV</b>
 
   - [Click Here](https://github.com/liang-wang-mako/portfolio/blob/main/LiangWang_CV.pdf)
     
