@@ -14,7 +14,8 @@
   - [Paws for Effect-the basics of React development](https://github.com/mako-2023/react-paws-for-effect/tree/liang)
  
 - <h3>Express.js Challenges and Projects During the Bootcamp at Dev Academy Aotearoa</h3>
-
+   - [Server Side Rendering](https://github.com/mako-2023/server-side-rendering/tree/liang)
+   - [Pupparazzi-Practice Express router](https://github.com/mako-2023/pupparazzi/tree/liang)
 - <b>C# (.NET .Net Core Application)</b>
   - [Will be added later]
 
