@@ -10,15 +10,23 @@
 - <b>React Practice</b>
   - [kes-ke-say: Finish allocated job from a big projects](https://github.com/mako-2023/kes-ke-say)
   - [Query and Mutation Practice](https://github.com/mako-2023/queries-and-mutations/tree/liang)
-  - [The Waonderful world of widget, Practice Router, Call Api](https://github.com/mako-2023/react-to-web-api/tree/liang)
+  - [The Wonderful world of widget, Practice Router, Call API](https://github.com/mako-2023/react-to-web-api/tree/liang)
   - [Paws for Effect-the basics of React development](https://github.com/mako-2023/react-paws-for-effect/tree/liang)
  
 - <b>Express.js Challenges and Projects During the Bootcamp at Dev Academy Aotearoa</b>
   - [DreamFest-Practice to deveope a site using Express.js](https://github.com/mako-2023/dreamfest/tree/liang)
   - [Server Side Rendering](https://github.com/mako-2023/server-side-rendering/tree/liang)
   - [Pupparazzi-Practice Express router](https://github.com/mako-2023/pupparazzi/tree/liang)
+  - [Express-Server: Creating a web server with Express.js](https://github.com/mako-2023/express-server/tree/liang-caleb)
   - [External API-This exercise is about exploring the world of APIs available to us](https://github.com/mako-2023/consuming-external-apis/tree/liang)
+  - [knex-joins-stories enable us to practise joins](https://github.com/mako-2023/knex-joins-stories/tree/liang)
   - [knex-todo-cli-Command-line todo app using Knex](https://github.com/mako-2023/knex-todo-cli/tree/liang)
+    
+- <b>Some JavaScript exercise During the Bootcamp at Dev Academy Aotearoa</b>
+  - [Kata: Types, functions, and modules](https://github.com/mako-2023/kata-types-modules/tree/liang-dylan-chris)
+  - [Kata: Data Structure](https://github.com/mako-2023/kata-data-structures/tree/jame-liang)
+  - [Kata: Modules, first-class functions, strings, and numbers](https://github.com/mako-2023/kata-strings-numbers-modules/tree/liang-dylan-chris)
+  - [Kata: Objects and Arrays](https://github.com/mako-2023/kata-objects-and-arrays/tree/gabriel-liang)
    
 - <b>C# (.NET .Net Core Application)</b>
   - [Will be added later]
