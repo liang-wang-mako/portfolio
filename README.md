@@ -5,11 +5,11 @@
 
 - <b>Full Stack Web App (React, ExpressJS, NodeJS, JWT, and Mongo DB)</b>
 
-  - [Milly Online Order](https://github.com/liang-wang-mako/milly/tree/use-bootstrap)
+  - [Milly Online Order - Personal Project](https://github.com/liang-wang-mako/milly/tree/use-bootstrap)
   
 - <b>Full-Stack-Example (React, ExpressJS, NodeJS, JWT, Auth0, and SQLite)</b>
 
-  - [My Full-Stack Collection Query](https://github.com/liang-wang-mako/my-fullstack-collection-query/tree/liang)
+  - [My Full-Stack Collection Query - Personal Challenge](https://github.com/liang-wang-mako/my-fullstack-collection-query/tree/liang)
 
 - <b>React Practice</b>
   - [kes-ke-say: Finish allocated job from a big projects](https://github.com/mako-2023/kes-ke-say)
