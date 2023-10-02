@@ -7,10 +7,9 @@
   - [Milly Online Order](https://github.com/liang-wang-mako/milly/tree/use-bootstrap)</i>
 - <b>Full-Stack-Example (React, ExpressJS, NodeJS, JWT, Auth0, and SQLite)</b>
   - [My Full-Stack Collection Query](https://github.com/liang-wang-mako/my-fullstack-collection-query/tree/liang)
-- <b>Practice to finish allocated job from a big projects (Practice useQuery and useMutation)</b>
-
-  - [kes-ke-say](https://github.com/mako-2023/kes-ke-say)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+- <b>Practice useQuery and useMutation</b>
+  - [kes-ke-say: Practice to finish allocated job from a big projects](https://github.com/mako-2023/kes-ke-say)
+  - [Query and Mutation](https://github.com/mako-2023/queries-and-mutations/tree/liang)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
