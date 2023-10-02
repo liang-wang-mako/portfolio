@@ -15,8 +15,8 @@
 <p>
  Web application development appeals to me because of the potential to create products that can uplift communities, create experiences, and provide accessibility.
 </p>
-- <b>[My CV](https://github.com/liang-wang-mako/portfolio/blob/main/LiangWang_CV.pdf)</b>
-
+- <b>To View My CV</b>
+  - [My CV](https://github.com/liang-wang-mako/portfolio/blob/main/LiangWang_CV.pdf)
 <h3>React.js Challenges and Projects During the Bootcamp at Dev Academy Aotearoa</h3>
 
 - <b>Full Stack Web App (React, ExpressJS, NodeJS, JWT, and Mongo DB)</b>
