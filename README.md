@@ -10,8 +10,6 @@
 - <b>Full-Stack-Example (React, ExpressJS, NodeJS, JWT, Auth0, and SQLite)</b>
 
   - [My Full-Stack Collection Query](https://github.com/liang-wang-mako/my-fullstack-collection-query/tree/liang)
-  
-- <b>Group Exercises</b>
 
 - <b>React Practice</b>
   - [kes-ke-say: Finish allocated job from a big projects](https://github.com/mako-2023/kes-ke-say)
@@ -30,6 +28,7 @@
   - [knex-todo-cli-Command-line todo app using Knex](https://github.com/mako-2023/knex-todo-cli/tree/liang)
     
 - <b>Some JavaScript exercise During the Bootcamp at Dev Academy Aotearoa</b>
+  - [TDD-Bowling-Kata](https://github.com/mako-2023/tdd-bowling-kata/tree/liang)
   - [Minesweeper](https://github.com/liang-wang-mako/javascript-carnival)
   - [JavaScript Carnival](https://github.com/liang-wang-mako/minesweeper)
   - [Tic-Tac-Toe](https://github.com/liang-wang-mako/tic-tac-toe)
