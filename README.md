@@ -24,7 +24,7 @@
 
 - <b>Full Stack Web App (React, ExpressJS, NodeJS, JWT, and Mongo DB)</b>
 
-  - [Milly Online Order - Personal Project](https://github.com/liang-wang-mako/milly/tree/use-bootstrap)
+  - [Milly Online Order - Personal Project](https://github.com/liang-wang-mako/milly)
   
 - <b>Full-Stack-Example (React, ExpressJS, NodeJS, JWT, Auth0, and SQLite)</b>
 
