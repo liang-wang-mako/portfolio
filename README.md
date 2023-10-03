@@ -58,6 +58,7 @@
   - [Kata: Objects and Arrays](https://github.com/mako-2023/kata-objects-and-arrays/tree/gabriel-liang)
 
  <h2>🔭 C# (.NET .Net Core Application)</2>
+  
  - [Will be added later]
 
 <h2>📺 Git and GitHub Practices</h2>
