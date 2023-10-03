@@ -24,7 +24,8 @@
 
 - <b>Full Stack Web App (React, ExpressJS, NodeJS, JWT, and Mongo DB)</b>
 
-  - [Milly Online Order - Personal Project](https://github.com/liang-wang-mako/milly)
+  - [Milly Online Order - Final Project](https://github.com/liang-wang-mako/milly)
+  - [Deployed At](https://millyonline.onrender.com/)
   
 - <b>Full-Stack-Example (React, ExpressJS, NodeJS, JWT, Auth0, and SQLite)</b>
 
