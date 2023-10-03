@@ -56,9 +56,9 @@
   - [Kata: Data Structure](https://github.com/mako-2023/kata-data-structures/tree/jame-liang)
   - [Kata: Modules, first-class functions, strings, and numbers](https://github.com/mako-2023/kata-strings-numbers-modules/tree/liang-dylan-chris)
   - [Kata: Objects and Arrays](https://github.com/mako-2023/kata-objects-and-arrays/tree/gabriel-liang)
-   
-- <b>C# (.NET .Net Core Application)</b>
-  - [Will be added later]
+
+ <h2>🔭 C# (.NET .Net Core Application)</2>
+ - [Will be added later]
 
 <h2>📺 Git and GitHub Practices</h2>
 - [Introduction to GitHub](https://github.com/liang-wang-mako/introduction-to-github)
