@@ -59,11 +59,11 @@
 
  <h2>🔭 C# (.NET .Net Core Application)</2>
   
- - [Will be added later]()
+   - [Will be added later]()
 
 <h2>📺 Git and GitHub Practices</h2>
 
-- [Introduction to GitHub](https://github.com/liang-wang-mako/introduction-to-github)
+  - [Introduction to GitHub](https://github.com/liang-wang-mako/introduction-to-github)
 
 
 <h2> 🤳 Connect with me:</h2>
